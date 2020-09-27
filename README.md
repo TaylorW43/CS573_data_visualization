@@ -26,15 +26,37 @@ The following tasks and questions will drive the visualization and interaction d
  * (Add a more catagorize in the ratio of private and state launch chart) In this chart, I want to add another category that roughly represents the political ideology of each country, and try to find out is the hypothesis: capitalist countries has more private launches?
  * (Create a world graph) I also want to create a world graph that marks the location of the each individual launch location and try to find if there's something interesting about it.
  * (Create a pie chart) Another idea about this dataset is a pie chart showing that for each company, what percent of all the countries they have worked with? This idea is inspired by the author of the dataset, the author is interested in finding out which company is the most collaborative and this inspired me to create this pie chart.
- * (Create a graph showing for each country what's the success/failure ratio throughout the years) I'm very curious about with all these launches which ones are actually successful.
+ * (Still undecided whether to do this or not.)(Create a graph showing for each country what's the success/failure ratio throughout the years) I'm very curious about with all these launches which ones are actually successful.
 
 ## Sketches
 
+###Sketch_1
+![sketch1](<https://user-images.githubusercontent.com/63271980/94375137-770d4f00-00df-11eb-942d-4e5944f0e280.png>
+)
+Description:
+In this sketch, the X axis is the year, and the Y axis is the number of launches in that paticular year. When you click on each column you should see the significant events that has happened in that year, for instance: maybe when clicked on one column you can see "Cold War". I intend to use this to revela the relationship between world events and more rocket launches. Which would solve Question&Task #1.
 
+###Sketch_2
+![sketch2](<https://user-images.githubusercontent.com/63271980/94375141-87bdc500-00df-11eb-9d58-8188c99691d9.png>
+)
+Description:
+In this sketch, I intend to create a world map and each dot would represent a launch place. When clicked on it it should say the origin country, the date of the launch and exact place along with success/failure tag. I'm curious if the launches took place more in desert or sea? Which would solve Question&Task #3.
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+###Sketch_3
+![sketch3](<https://user-images.githubusercontent.com/63271980/94375148-96a47780-00df-11eb-9243-2b688cf356d9.png>
+)
+Description:
+In this sketch, the X axis is the Countries Categorization, and the Y axis is the number of private launches and number of state luaunches. I want to add the political ideaology of these countries, although I haven't decided in what form. Which would solve Question&Task #2.
+
+###Sketch_4
+![sketch4](<https://user-images.githubusercontent.com/63271980/94375155-a15f0c80-00df-11eb-885a-d8a062e09722.png>
+)
+Description:
+This is a delicious pie. Bon appétit! The pie is all the countries in the world as a whole, and each slice represents the percent of the pie each company gets. Which would solve Question&Task #4.
+
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+The thing I most fear is the world map, still haven't got the chance to learn it and I'm afraid the end result wouldn't be the same as that in my mind.
+Also for most of my sketches I still haven't decided what to add and how exactly user interactions would be. I'm more intereted in exploring different ideas and see how each one goes while implementing them instead of decide what I have to do in advance.
+
