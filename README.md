@@ -58,3 +58,8 @@ This is a delicious pie. Bon appétit! The pie is all the countries in the world
 ![sketch5](https://user-images.githubusercontent.com/63271980/95107264-ac312700-0707-11eb-9046-4f17626b69a2.png)
 Description:
 This is a newly added sketch idea inspired by "Add a menu" project. This chart meant to show in a specific year during which month the launch occurs. Currently the Y menu only has one choice which is Month attribute, the X menu grouped years into groups, but in the future I might add more into the mix. Which would solve Question&Task #5.
+
+## Schedule of Deliverables
+I plan to have two phases to finish the final project.
+### First Phase---Rough visulization
+### Second Phase---Perfect each idea
