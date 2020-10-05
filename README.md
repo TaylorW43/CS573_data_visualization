@@ -62,5 +62,6 @@ This is a newly added sketch idea inspired by "Add a menu" project. This chart m
 ## Schedule of Deliverables
 I plan to have two phases to finish the final project.
 ### First Phase---Rough visulization(two weeks)
-- Bullet list
+- Sketch_1
+  Since the rough visualization of this one is already been done. This one won't cost time.
 ### Second Phase---Perfect each idea(two weeks)
