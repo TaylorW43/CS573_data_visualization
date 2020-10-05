@@ -61,6 +61,12 @@ This is a newly added sketch idea inspired by "Add a menu" project. This chart m
 
 ## Schedule of Deliverables
 I plan to have two phases to finish the final project.
-### First Phase---Rough visulization(two weeks)
-* (Sketch_1) Since the rough visualization of this one is already been done. This one won't cost time.
-### Second Phase---Perfect each idea(two weeks)
+### First Phase---Rough visulization(12 days)
+* Estimated delivery date of first phase: Oct.18.2020
+** (Sketch_1: Number of launches in a paticular year) Since the rough visualization of this one is already been done. This one won't cost time.
+** (Sketch_2: Worldmap of launch places) To me this one is the more difficult one, therefore I think it will take me 9 days to finish.
+** (Sketch_3: Ratio of state and private launches) Since the rough visualization of this one is already been done. This one won't cost time.
+** (Sketch_4: Delicious pie) This one is normal difficulty, therefore I intend to finish it in 3 days.
+** (Sketch_5: Plot launch year/month with menus) Since the rough visualization of this one is already been done. This one won't cost time.
+### Second Phase---Perfect each idea(23 days)
+
