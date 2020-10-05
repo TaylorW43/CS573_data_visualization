@@ -69,4 +69,9 @@ I plan to have two phases to finish the final project.
   * (Sketch_4: Delicious pie) This one is normal difficulty, therefore I intend to finish it in 3 days.
   * (Sketch_5: Plot launch year/month with menus) Since the rough visualization of this one is already been done. This one won't cost time.
 ### Second Phase---Perfect each idea(23 days)
-
+* Estimated delivery date of second phase: Nov.11.2020
+  * Since I haven't decide exactly what to do with these, everything is subject to change.
+  * I intend to spent three or four days to change the css(e.g. color,font,fill,background...) and line rendering(margin etc.) of all the visualizations. I want to use apply a universal css to all my projects therefore every each one of the sketches will be changed during this time.
+  * Then I will spend about eight or nine days trying to perfect my world map visualization, see if there's anything particularly interests me and makes me want to change and try out different ideas.
+  * Next I will spend about seven or eight days trying to perfect my plot with menus visualization. This is a big part of my project, also for the reason that I found this one interesting, I can see a lot of effort going into this one.
+  * The remaining five or six days I'll spent on perfect my other designs. Again, I want to try out different things and see which one I think is the best.
