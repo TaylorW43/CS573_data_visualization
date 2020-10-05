@@ -22,11 +22,11 @@ Second one is a also a bar chart, but it aims to show that for each country, wha
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (Add an overlap with the number of launches each year chart) As we can see in the chart, there's some years that the number of launches are significantly more than others, I'm wondering is there a relationship between economic advancement and more launches?
  * (Add a more catagorize in the ratio of private and state launch chart) In this chart, I want to add another category that roughly represents the political ideology of each country, and try to find out is the hypothesis: capitalist countries has more private launches?
  * (Create a world graph) I also want to create a world graph that marks the location of the each individual launch location and try to find if there's something interesting about it.
  * (Create a pie chart) Another idea about this dataset is a pie chart showing that for each company, what percent of all the countries they have worked with? This idea is inspired by the author of the dataset, the author is interested in finding out which company is the most collaborative and this inspired me to create this pie chart.
  * (Still undecided whether to do this or not.)(Create a graph showing for each country what's the success/failure ratio throughout the years) I'm very curious about with all these launches which ones are actually successful.
+ * (Perfect the plot with menu visulization) In the plot launch year/month with menus project, I wish to add dynamic mark radius, the larger the number of launches each month, the larger the radius. Right now it just shows that at this specific month in this specific year it has at least 1 launches.
 
 ## Sketches
 
@@ -54,9 +54,4 @@ In this sketch, the X axis is the Countries Categorization, and the Y axis is th
 Description:
 This is a delicious pie. Bon appétit! The pie is all the countries in the world as a whole, and each slice represents the percent of the pie each company gets. Which would solve Question&Task #4.
 
-
-## Open Questions
-
-The thing I most fear is the world map, still haven't got the chance to learn it and I'm afraid the end result wouldn't be the same as that in my mind.
-Also for most of my sketches I still haven't decided what to add and how exactly user interactions would be. I'm more intereted in exploring different ideas and see how each one goes while implementing them instead of decide what I have to do in advance.
 
