@@ -24,7 +24,6 @@ The following tasks and questions will drive the visualization and interaction d
 
  * (Add a more catagorize in the ratio of private and state launch chart) In this chart, I want to add another category that roughly represents the political ideology of each country, and try to find out is the hypothesis: capitalist countries has more private launches?
  * (Create a world graph) I also want to create a world graph that marks the location of the each individual launch location and try to find if there's something interesting about it.
- * (Create a pie chart) Another idea about this dataset is a pie chart showing that for each company, what percent of all the countries they have worked with? This idea is inspired by the author of the dataset, the author is interested in finding out which company is the most collaborative and this inspired me to create this pie chart.
  * (Still undecided whether to do this or not.)(Create a graph showing for each country what's the success/failure ratio throughout the years) I'm very curious about with all these launches which ones are actually successful.
  * (Perfect the plot with menu visulization) In the plot launch year/month with menus project, I wish to add dynamic mark radius, the larger the number of launches each month, the larger the radius. Right now it just shows that at this specific month in this specific year it has at least 1 launches.
 
@@ -49,13 +48,7 @@ Description:
 In this sketch, the X axis is the Countries Categorization, and the Y axis is the number of private launches and number of state luaunches. I want to add the political ideaology of these countries, although I haven't decided in what form. Which would solve Question&Task #1.
 
 ###Sketch_4
-![sketch4](<https://user-images.githubusercontent.com/63271980/94375155-a15f0c80-00df-11eb-885a-d8a062e09722.png>
-)
-Description:
-This is a delicious pie. Bon appétit! The pie is all the countries in the world as a whole, and each slice represents the percent of the pie that each company gets. Which would solve Question&Task #3.
-
-###Sketch_5
-![sketch5](https://user-images.githubusercontent.com/63271980/95107264-ac312700-0707-11eb-9046-4f17626b69a2.png)
+![sketch4](https://user-images.githubusercontent.com/63271980/95107264-ac312700-0707-11eb-9046-4f17626b69a2.png)
 Description:
 This is a newly added sketch idea inspired by "Add a menu" project. This chart meant to show in a specific year during which month the launch occurs. Currently the Y menu only has one choice which is Month attribute, the X menu grouped years into groups, but in the future I might add more into the mix. Which would solve Question&Task #5.
 
@@ -66,8 +59,7 @@ I plan to have two phases to finish the final project.
   * (Sketch_1: Number of launches in a paticular year) Since the rough visualization of this one is already been done. This one won't cost time.
   * (Sketch_2: Worldmap of launch places) To me this one is the more difficult one, therefore I think it will take me 9 days to finish.
   * (Sketch_3: Ratio of state and private launches) Since the rough visualization of this one is already been done. This one won't cost time.
-  * (Sketch_4: Delicious pie) This one is normal difficulty, therefore I intend to finish it in 3 days.
-  * (Sketch_5: Plot launch year/month with menus) Since the rough visualization of this one is already been done. This one won't cost time.
+  * (Sketch_4: Plot launch year/month with menus) Since the rough visualization of this one is already been done. This one won't cost time.
 ### Second Phase---Perfect each idea(23 days)
 * Estimated delivery date of second phase: Nov.11.2020
   * Since I haven't decide exactly what to do with these, everything is subject to change.
@@ -75,3 +67,6 @@ I plan to have two phases to finish the final project.
   * Then I will spend about eight or nine days trying to perfect my world map visualization, see if there's anything particularly interests me and makes me want to change and try out different ideas.
   * Next I will spend about seven or eight days trying to perfect my plot with menus visualization. This is a big part of my project, also for the reason that I found this one interesting, I can see a lot of effort going into this one.
   * The remaining five or six days I'll spent on perfect my other designs. Again, I want to try out different things and see which one I think is the best.
+
+## Problems along the way
+After I spent time trying to figure out how to do pie chart, I actually found out that the dataset I have isn't suitable for this kinda of visualization. Therefore I had to delete this from my project schedule. However due to this I decided to add more functions to my other visualizations.
