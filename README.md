@@ -34,7 +34,7 @@ The following tasks and questions will drive the visualization and interaction d
   [![world](<https://user-images.githubusercontent.com/63271980/97769519-0ef8c100-1b02-11eb-9551-9be76c2dec3b.png>
 )](https://vizhub.com/TaylorW43/43b5890ab1f8495eb6d799deb94718ea)
  
- * (Bar chart) A bar chart showing the ratio of state/private launches for each country(Has been changed into pie form and integrated into world map).
+ * (Bar chart) [A bar chart showing the ratio of state/private launches for each country(Has been changed into pie form and integrated into world map).](https://vizhub.com/TaylorW43/bdcb44f70d6a4500b3f65054adeecbd0)
 
 ## Sketches
 
