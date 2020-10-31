@@ -23,6 +23,9 @@ Second one is a also a bar chart, but it aims to show that for each country, wha
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * (Bar chart) Remade a bar chart showing total number of rocket launches throughout the years.
+ [![bar_total](<https://user-images.githubusercontent.com/63271980/97769496-e7a1f400-1b01-11eb-9097-60e1b59a621a.png>
+)](https://vizhub.com/TaylorW43/9ab3676390c643deabe16a9da7e7635e)
+ 
  * (Plot with menu) A scatter plot showing each year during which month was the launch occurred.
  * (World graph) Created a world graph that marks the location of the each individual launch location, also when clicked on one would find hidden pies.
  * (Bar chart) A bar chart showing the ratio of state/private launches for each country(Has been changed into pie form and integrated into world map).
