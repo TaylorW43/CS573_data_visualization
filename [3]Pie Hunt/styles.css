@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+pre {
+  font-size: 7em;
+}
+.sphere {
+  fill: #99FFFF;
+  //opacity: 0.3;
+  cursor: zoom-in;
+}
+.graticules {
+  fill: none;
+  stroke: #E0E0E0;
+  opacity: 0.2;
+}
+.country {
+  //fill: #009900;
+  //fill-opacity: 0.2;
+  stroke: #808080;
+  stroke-width: 0.5px;
+  cursor: pointer;
+}
+.country:hover {
+  fill: red;
+}
+.polygon {
+  cursor: context-menu;
+}
