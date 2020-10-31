@@ -45,21 +45,22 @@ Description:
 In this sketch, the X axis is the year, and the Y axis is the number of launches in that paticular year. Since there are too many years and it's impossible and not wise to show them all, I added tooltip to show the year value each column have.
 
 ###Sketch_2
-![sketch2](https://user-images.githubusercontent.com/63271980/95107264-ac312700-0707-11eb-9046-4f17626b69a2.png)
-Description:
-This is a scatter plot showing in a specific year during which month the launch occurs. The Y menu only has one choice which is Month attribute since I'm only concerned with month attribute, the X menu grouped years into groups.
-
-###Sketch_3
-![sketch3](<https://user-images.githubusercontent.com/63271980/94375141-87bdc500-00df-11eb-9d58-8188c99691d9.png>
+![sketch2](<https://user-images.githubusercontent.com/63271980/94375141-87bdc500-00df-11eb-9d58-8188c99691d9.png>
 )
 Description:
 In this sketch, I created a world map and each reverse triangle represents a launch place. When clicked on it would display a menu showing information about this place. Also try to find the hidden pies! Meaning, if one click on the countries, pies may pop up.
 
-###Sketch_4
-![sketch4](<https://user-images.githubusercontent.com/63271980/94375148-96a47780-00df-11eb-9243-2b688cf356d9.png>
+###Sketch_3
+![sketch3](<https://user-images.githubusercontent.com/63271980/94375148-96a47780-00df-11eb-9243-2b688cf356d9.png>
 )
 Description:
 In this sketch, the X axis is the Countries Categorization, and the Y axis is the number of private launches and number of state luaunches. I want to add the political ideaology of these countries, although I haven't decided in what form. Which would solve Question&Task #1.
+
+###Sketch_4
+![sketch4](https://user-images.githubusercontent.com/63271980/95107264-ac312700-0707-11eb-9046-4f17626b69a2.png)
+Description:
+This is a scatter plot showing in a specific year during which month the launch occurs. The Y menu only has one choice which is Month attribute since I'm only concerned with month attribute, the X menu grouped years into groups.
+
 
 ## Schedule of Deliverables
 I designed two phases to finish the final project.
