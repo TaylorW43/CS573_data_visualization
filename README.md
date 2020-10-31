@@ -27,7 +27,13 @@ The following tasks and questions will drive the visualization and interaction d
 )](https://vizhub.com/TaylorW43/9ab3676390c643deabe16a9da7e7635e)
  
  * (Plot with menu) A scatter plot showing each year during which month was the launch occurred.
+  [![menu](<https://user-images.githubusercontent.com/63271980/97769506-fe484b00-1b01-11eb-8cf7-cca9b0d14ef7.png>
+)](https://vizhub.com/TaylorW43/632f72850cda406690c5e4ff2c739b25)
+ 
  * (World graph) Created a world graph that marks the location of the each individual launch location, also when clicked on one would find hidden pies.
+  [![world](<https://user-images.githubusercontent.com/63271980/97769519-0ef8c100-1b02-11eb-9551-9be76c2dec3b.png>
+)](https://vizhub.com/TaylorW43/43b5890ab1f8495eb6d799deb94718ea)
+ 
  * (Bar chart) A bar chart showing the ratio of state/private launches for each country(Has been changed into pie form and integrated into world map).
 
 ## Sketches
